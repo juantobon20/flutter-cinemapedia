@@ -20,7 +20,7 @@ Riverpod es un paquete de gestión de estado que sigue el patrón de Provider, p
 
 ### Cómo Funciona
 
-![Riverpod Diagram](https://miro.medium.com/v2/resize:fit:1400/1*h4ahfMrkEhwmx5_Y6Y7zOA.png)
+![Diagrama Riverpod con Clean Architecture](https://miro.medium.com/v2/resize:fit:1400/1*h4ahfMrkEhwmx5_Y6Y7zOA.png)
 
 En la imagen anterior, se ilustra de manera simplificada cómo funciona Riverpod en nuestro proyecto. Asegura una gestión del estado eficiente y sin problemas, proporcionando una forma clara de acceder y modificar los datos en toda la aplicación.
 
